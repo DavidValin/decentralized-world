@@ -33,6 +33,7 @@ Best projects for getting to a more decentralized world
 * [IOTA](https://www.iota.org)
 
 ### Decentralized exchanges
+* [Uniswap](https://uniswap.org)
 * [Changelly](https://changelly.com)
 * [Bisq](https://bisq.network)
 
