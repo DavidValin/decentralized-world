@@ -42,5 +42,6 @@ Best projects for getting to a more decentralized world
 * [LibreMesh](https://libremesh.org)
 
 ### Organizations
+* [Decentralized Identity Foundation](https://identity.foundation)
 * [The Free Network Foundation](https://www.thefnf.org)
 * [AlterMundi](https://www.altermundi.net)
