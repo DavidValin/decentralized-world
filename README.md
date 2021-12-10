@@ -40,6 +40,7 @@ Best projects for getting to a more decentralized world
 ### Decentralized development tools
 * [Libp2p](https://libp2p.io)
 * [LibreMesh](https://libremesh.org)
+* [Mango](https://github.com/axic/mango)
 
 ### Organizations
 * [Decentralized Identity Foundation](https://identity.foundation)
